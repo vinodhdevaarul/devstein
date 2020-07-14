@@ -6,4 +6,10 @@
   <build>
   	<finalName>jenkins-integration-sample</finalName>
   </build>
+  <properties>
+  <sonar.projectKey>vinodhdevaarul_devstein</sonar.projectKey>
+  <sonar.organization>devstein-jenkins-docker-trigger</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>138fe311bda27052077023e0ca4961af1c863ebb</sonar.login>
+ </properties>
 </project>
